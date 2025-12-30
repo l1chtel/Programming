@@ -1,0 +1,28 @@
+// src/styles.scss
+
+// 1. Import the Material Sass modules.
+@use '@angular/material' as mat;
+
+// 2. Include the core Material styles (sets up global typography and base CSS)
+// This replaces the older mat.prebuilt-typography() mixin.
+@include mat.core();
+
+// 3. Define the color palettes using the m2- prefixed functions
+$myapp-theme-primary: mat.m2-define-palette(mat.$m2-indigo-palette, 700);
+$myapp-theme-accent: mat.m2-define-palette(mat.$m2-pink-palette, A200, A100, A400);
+$myapp-theme-warn: mat.m2-define-palette(mat.$m2-red-palette);
+
+// 4. Define the theme object using the m2- prefixed function
+$myapp-theme: mat.m2-define-light-theme(
+  (
+    color: (
+      primary: $myapp-theme-primary,
+      accent: $myapp-theme-accent,
+      warn: $myapp-theme-warn,
+    )
+    // Typography and density configuration are typically omitted here when using mat.core(),
+  )
+);
+
+// 5. Apply the theme to all Material components
+@include mat.all-component-themes($myapp-theme);

@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "password": "secret",
+      "creationDate": "2025-12-03T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "password": "hunter2",
+      "creationDate": "2025-12-03T00:00:00.000Z"
+    },
+    {
+      "id": "dbd5",
+      "name": "Max",
+      "password": "123",
+      "creationDate": "2025-12-03T21:17:19.105Z"
+    },
+    {
+      "id": "c2c2",
+      "name": "jonas",
+      "password": "123456",
+      "creationDate": "2025-12-04T19:30:43.523Z"
+    },
+    {
+      "id": "1681",
+      "name": "fifi",
+      "password": "123",
+      "creationDate": "2025-12-04T19:32:15.857Z"
+    },
+    {
+      "id": "8d6e",
+      "name": "fkff",
+      "password": "123",
+      "creationDate": "2025-12-04T19:32:45.833Z"
+    },
+    {
+      "id": "4f68",
+      "name": "mimi",
+      "password": "189",
+      "creationDate": "2025-12-04T19:33:10.469Z"
+    },
+    {
+      "id": "fd94",
+      "name": "frank",
+      "password": "123",
+      "creationDate": "2025-12-04T19:53:22.524Z"
+    },
+    {
+      "id": "e351",
+      "name": "fiff",
+      "password": "123",
+      "creationDate": "2025-12-04T19:58:22.110Z"
+    },
+    {
+      "id": "2562",
+      "name": "dagadg",
+      "password": "adgadgag",
+      "creationDate": "2025-12-04T22:56:55.188Z"
+    },
+    {
+      "id": "a911",
+      "name": "anona ",
+      "password": "1234",
+      "creationDate": "2025-12-04T22:58:28.354Z"
+    },
+    {
+      "id": "d89e",
+      "name": null,
+      "password": null,
+      "creationDate": "2025-12-27T22:48:29.672Z"
+    },
+    {
+      "id": "c9df",
+      "name": "111",
+      "password": "111",
+      "creationDate": "2025-12-27T22:48:38.870Z"
+    },
+    {
+      "id": "9874",
+      "name": "agqeg",
+      "password": "ääää",
+      "creationDate": "2025-12-27T22:51:23.620Z"
+    },
+    {
+      "id": "245e",
+      "name": "egqeg",
+      "password": "qegqeg",
+      "creationDate": "2025-12-27T22:51:48.737Z"
+    },
+    {
+      "id": "184c",
+      "name": "qegqeg",
+      "password": "qegqeg",
+      "creationDate": "2025-12-28T17:43:41.115Z"
+    },
+    {
+      "id": "856c",
+      "name": "eagaeg",
+      "password": "aegaeg",
+      "creationDate": "2025-12-30T16:54:13.948Z"
+    },
+    {
+      "id": "4776",
+      "name": "aegaeg",
+      "password": "aegaegaeg",
+      "creationDate": "2025-12-30T16:56:18.316Z"
+    },
+    {
+      "id": "ef39",
+      "name": "22222",
+      "password": "222222",
+      "creationDate": "2025-12-30T16:57:24.460Z"
+    },
+    {
+      "id": "0832",
+      "name": "aegaegagaegag",
+      "password": "aegaegaegaeg",
+      "creationDate": "2025-12-30T17:01:17.202Z"
+    },
+    {
+      "id": "67bd",
+      "name": "aegaeg",
+      "password": "egaegaeg",
+      "creationDate": "2025-12-30T17:03:28.014Z"
+    }
+  ]
+}
